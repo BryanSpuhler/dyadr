@@ -1,5 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
-^\.Rproj\.dropbox$
-^\.Rproj\.Icon$
-^\.Rproj\.RData$
+^.dropbox$
+^.Icon$
+^.RData$
